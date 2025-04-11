@@ -1,4 +1,4 @@
-### Experiment management system for MNIST model
+# Experiment management system for MNIST model
 
 To run in terminal (Bash/PowerShell)
 1. pip install -r requirements.txt
