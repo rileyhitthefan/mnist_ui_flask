@@ -1,0 +1,4 @@
+torch
+torchvsion
+sqlite3
+flask
